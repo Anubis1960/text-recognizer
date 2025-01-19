@@ -9,3 +9,7 @@ The loss curves for the model:
 
 The accuracy curves for the model:
 ![Accuracy Curve](plot_2024-11-17%2022-26-40_1.png)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
